@@ -1,0 +1,61 @@
+{
+  "python": {
+    "python3.11.5": "https://www.python.org/ftp/python/3.13.2/python-3.13.2-embed-amd64.zip"
+  },
+  "Program Files": {
+    "7z": "https://www.7-zip.org/a/7z2409-x64.exe",
+    "git": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/PortableGit-2.49.0-64-bit.7z.exe",
+    "DB.Browser": "https://download.sqlitebrowser.org/DB.Browser.for.SQLite-v3.13.1-win64.zip",
+    "ev录屏": {
+      "url": "https://ctpublic.ieway.cn/public/download/EVCapture_v5.3.3.exe",
+      "noUnzip": true
+    },
+    "inputtip": "https://github.com/abgox/InputTip/releases/download/v2.35.9/InputTip.zip",
+    "node": "https://nodejs.org/download/release/v20.17.0/node-v20.17.0-win-x64.7z",
+    "notepad4": "https://github.com/zufuliu/notepad4/releases/download/v25.01r5618/Notepad4_HD_zh-Hans_x64_v25.01r5618.zip",
+    "notepad++": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.7/npp.8.7.7.portable.x64.zip",
+    "myposh": {
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.5.0/posh-windows-amd64.exe",
+      "noUnzip": true
+    },
+    "PowerShell": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x64.zip",
+    "Snipaste": "https://download.snipaste.com/archives/Snipaste-2.10.6-x64.zip",
+    "wezterm": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip",
+    "TrafficMonitor": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.84.1/TrafficMonitor_V1.84.1_x64.zip",
+    "GnuPG2.3.1": {
+      "url": "https://files.gpg4win.org/gpg4win-2.3.1.exe",
+      "noUnzip": true
+    }
+  },
+  "Program Files/command_line_tools": {
+    "github_cli": "https://github.com/cli/cli/releases/download/v2.34.0/gh_2.34.0_windows_amd64.zip",
+    "adb": "https://dl.google.com/android/repository/platform-tools-latest-windows.zip",
+    "curl": "https://curl.se/windows/dl-8.12.1_4/curl-8.12.1_4-win64-mingw.zip",
+    "gnirehtet-rust-win64": "https://github.com/Genymobile/gnirehtet/releases/download/v2.5.1/gnirehtet-rust-win64-v2.5.1.zip",
+    "N_m3u8DL-RE": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.3.0-beta/N_m3u8DL-RE_v0.3.0-beta_win-x64_20241203.zip",
+    "NirCmd": "https://www.nirsoft.net/utils/nircmd-x64.zip",
+    "ruff": "https://github.com/astral-sh/ruff/releases/download/0.11.1/ruff-x86_64-pc-windows-msvc.zip",
+    "scrcpy-win64-v2.5.0": "https://github.com/Genymobile/scrcpy/releases/download/v3.1/scrcpy-win64-v3.1.zip",
+    "typos": "https://github.com/crate-ci/typos/releases/download/v1.30.2/typos-v1.30.2-x86_64-pc-windows-msvc.zip",
+    "yazi": "https://github.com/sxyazi/yazi/releases/download/v25.3.2/yazi-x86_64-pc-windows-msvc.zip",
+    "actionlint": "https://github.com/rhysd/actionlint/releases/download/v1.7.7/actionlint_1.7.7_windows_amd64.zip",
+    "pttb": {
+      "url": "https://raw.githubusercontent.com/ChinaGodMan/pttb_-_Pin_To_TaskBar/main/pttb.",
+      "noUnzip": true
+    },
+    "tree.com": {
+      "url": "https://raw.githubusercontent.com/ChinaGodMan/pttb_-_Pin_To_TaskBar/main/tree.com",
+      "noUnzip": true
+    },
+    "whoami.exe": {
+      "url": "https://raw.githubusercontent.com/ChinaGodMan/pttb_-_Pin_To_TaskBar/main/whoami.exe",
+      "noUnzip": true
+    },
+    "where.exe": {
+      "url": "https://raw.githubusercontent.com/ChinaGodMan/pttb_-_Pin_To_TaskBar/main/where.exe",
+      "noUnzip": true
+    },
+    "clink": "https://github.com/chrisant996/clink/releases/download/v1.7.12/clink.1.7.12.625e8b.zip",
+    "onefetch": "https://github.com/o2sh/onefetch/releases/download/2.23.1/onefetch-win.tar.gz"
+  }
+}
